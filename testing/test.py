@@ -19,128 +19,6 @@ from common.git import update_repo
 from aster import aster_common
 from common import threads 
 
-# Structure: {total_replicas: {aster_machine_number: (replica_id, ip_address)}}
-aster_config = {
-    # 6 Total Replicas
-    6: {
-        # Aster 15, Replica ID 1, IP ADDR "192.168.53.24"
-        15: (1, "192.168.53.24"),
-        # Aster 16, Replica ID 2, IP ADDR "192.168.53.25"
-        16: (2, "192.168.53.25"),
-        # Aster 17, Replica ID 3, IP ADDR "192.168.53.26"
-        17: (3, "192.168.53.26"),
-        # Aster 18, Replica ID 4, IP ADDR "192.168.53.27"
-        18: (4, "192.168.53.27"),
-        # Aster 19, Replica ID 5, IP ADDR "192.168.53.28"
-        19: (5, "192.168.53.28"),
-        # Aster 20, Replica ID 6, IP ADDR "192.168.53.29"
-        20: (6, "192.168.53.29"),
-    },
-
-    # 7 Total Replicas
-    7: {
-        # Aster 14, Replica ID 1, IP ADDR "192.168.53.23"
-        14: (1, "192.168.53.23"),
-        # Aster 15, Replica ID 2, IP ADDR "192.168.53.24"
-        15: (2, "192.168.53.24"),
-        # Aster 16, Replica ID 3, IP ADDR "192.168.53.25"
-        16: (3, "192.168.53.25"),
-        # Aster 17, Replica ID 4, IP ADDR "192.168.53.26"
-        17: (4, "192.168.53.26"),
-        # Aster 18, Replica ID 5, IP ADDR "192.168.53.27"
-        18: (5, "192.168.53.27"),
-        # Aster 19, Replica ID 6, IP ADDR "192.168.53.28"
-        19: (6, "192.168.53.28"),
-        # Aster 20, Replica ID 7, IP ADDR "192.168.53.29"
-        20: (7, "192.168.53.29"),
-    },
-
-    # 8 Total Replicas
-    8: {
-        # Aster 13, Replica ID 1, IP ADDR "192.168.53.22"
-        13: (1, "192.168.53.22"),
-        # Aster 14, Replica ID 2, IP ADDR "192.168.53.23"
-        14: (2, "192.168.53.23"),
-        # Aster 15, Replica ID 3, IP ADDR "192.168.53.24"
-        15: (3, "192.168.53.24"),
-        # Aster 16, Replica ID 4, IP ADDR "192.168.53.25"
-        16: (4, "192.168.53.25"),
-        # Aster 17, Replica ID 5, IP ADDR "192.168.53.26"
-        17: (5, "192.168.53.26"),
-        # Aster 18, Replica ID 6, IP ADDR "192.168.53.27"
-        18: (6, "192.168.53.27"),
-        # Aster 19, Replica ID 7, IP ADDR "192.168.53.28"
-        19: (7, "192.168.53.28"),
-        # Aster 20, Replica ID 8, IP ADDR "192.168.53.29"
-        20: (8, "192.168.53.29"),
-    },
-
-    # 9 Total Replicas
-    9: {
-        # Aster 12, Replica ID 1, IP ADDR "192.168.53.21"
-        12: (1, "192.168.53.21"),
-        # Aster 13, Replica ID 2, IP ADDR "192.168.53.22"
-        13: (2, "192.168.53.22"),
-        # Aster 14, Replica ID 3, IP ADDR "192.168.53.23"
-        14: (3, "192.168.53.23"),
-        # Aster 15, Replica ID 4, IP ADDR "192.168.53.24"
-        15: (4, "192.168.53.24"),
-        # Aster 16, Replica ID 5, IP ADDR "192.168.53.25"
-        16: (5, "192.168.53.25"),
-        # Aster 17, Replica ID 6, IP ADDR "192.168.53.26"
-        17: (6, "192.168.53.26"),
-        # Aster 18, Replica ID 7, IP ADDR "192.168.53.27"
-        18: (7, "192.168.53.27"),
-        # Aster 19, Replica ID 8, IP ADDR "192.168.53.28"
-        19: (8, "192.168.53.28"),
-        # Aster 20, Replica ID 9, IP ADDR "192.168.53.29"
-        20: (9, "192.168.53.29"),
-    },
-
-    # 10 Total Replicas
-    10: {
-        # Aster 11, Replica ID 1, IP ADDR "192.168.53.20"
-        11: (1, "192.168.53.20"),
-        # Aster 12, Replica ID 2, IP ADDR "192.168.53.21"
-        12: (2, "192.168.53.21"),
-        # Aster 13, Replica ID 3, IP ADDR "192.168.53.22"
-        13: (3, "192.168.53.22"),
-        # Aster 14, Replica ID 4, IP ADDR "192.168.53.23"
-        14: (4, "192.168.53.23"),
-        # Aster 15, Replica ID 5, IP ADDR "192.168.53.24"
-        15: (5, "192.168.53.24"),
-        # Aster 16, Replica ID 6, IP ADDR "192.168.53.25"
-        16: (6, "192.168.53.25"),
-        # Aster 17, Replica ID 7, IP ADDR "192.168.53.26"
-        17: (7, "192.168.53.26"),
-        # Aster 18, Replica ID 8, IP ADDR "192.168.53.27"
-        18: (8, "192.168.53.27"),
-        # Aster 19, Replica ID 9, IP ADDR "192.168.53.28"
-        19: (9, "192.168.53.28"),
-        # Aster 20, Replica ID 10, IP ADDR "192.168.53.29"
-        20: (10, "192.168.53.29"),
-    },
-}
-
-METRIC_NAMES = [
-    "total_updates",
-    "elapsed",
-    "throughput",
-    "total_stalls",
-    "min_latency",
-    "max_latency",
-    "avg_latency",
-]
-
-HEADERS = [
-    "replicas", "encrypted", "max_po", "distribution",
-    "emulated_clients", "num_trials",
-    "mean_total_updates", "mean_elapsed", "mean_throughput",
-    "mean_total_stalls", "mean_min_latency",
-    "mean_max_latency", "mean_avg_latency",
-]
-
-
 # # # # # # # # # # # # # #  
 # #{TEST CONFIGURATIONS}# #
 # #   VARIABLES USED    # #
@@ -149,7 +27,7 @@ HEADERS = [
 global total_replicas_used, spines_encryption_status, max_po_list, emulated_list,updates
 
 # Total number of replicas being used in the test 
-total_replicas_used = [6,7,8]
+total_replicas_used = [8]
 # Number of clients the driver program is emulating 
 emulated_list = [20, 100, 500, 1000, 2500, 5000, 25000]
 # Number of updates each driver program sends

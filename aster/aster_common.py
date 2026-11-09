@@ -7,7 +7,7 @@ sys.path.insert(0, "..")
 from common import threads
 
 # Stores the aster machine id of any that should not be used
-skipped_machines = [3]
+skipped_machines = [3] + list(range(10, 21))
 # List of aster machines currently in use by the test program
 # Each array element is a list in the form [aster_id:int, started:Bool]
 # where started indicates if the start_replica function has been called 
@@ -40,10 +40,10 @@ def start_replicas(sessions: dict[int, subprocess.Popen]):
     # Git command sent to the machine: Clone the repo if it is not in
     # the home directory, otherwise update the repo. 
     git_command = (
-        '{ if [ -d cs2910/.git ]; then '
-        'git -C cs2910 fetch origin && '
-        'git -C cs2910 reset --hard origin/main; '
-        'else git clone https://github.com/sam444555/cs2910.git; '
+        '{ if [ -d cs2910-experimental/.git ]; then '
+        'git -C cs2910-experimental fetch origin && '
+        'git -C cs2910-experimental reset --hard origin/main; '
+        'else git clone https://github.com/sam444555/cs2910-experimental.git; '
         'fi; } > /dev/null 2>&1 && '
     )
 
