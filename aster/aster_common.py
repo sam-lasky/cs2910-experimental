@@ -116,7 +116,13 @@ def write_to_aster(ssh_subprocess:subprocess.Popen, msg:str):
     # Request startup status from the aster machine associated w/ the passed ssh_subprocess
     ssh_subprocess.stdin.write(msg)
     # Write it ASAP rocky
-    ssh_subprocess.stdin.flush()
+    try:
+        ssh_subprocess.stdin.flush()
+    except OSError:
+        print("SSH PROCESS FAILED")
+        print("Return code:", ssh_subprocess.poll())
+        print("STDERR:", ssh_subprocess.stderr.read() if ssh_subprocess.poll() is not None else "Still running")
+        raise
 
 '''
     Read the response from aster replica 
