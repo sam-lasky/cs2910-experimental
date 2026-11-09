@@ -64,7 +64,7 @@ def start_replicas(sessions: dict[int, subprocess.Popen]):
             # which will run until the parent process issues a termination message.
             #   aster_replica.py takes machine_id 
             replica_startup_command = (
-                'cd cs2910/aster && '
+                'cd cs2910-experimental/aster && '
                 f'python3 -u aster_replica.py {machine_id}'
             )
 
