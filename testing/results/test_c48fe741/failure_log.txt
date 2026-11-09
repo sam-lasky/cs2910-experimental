@@ -1,0 +1,1178 @@
+[FAILURE #1]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #2]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #3]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #4]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #5]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #6]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+
+[FAILURE #7]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #8]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #9]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #10]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #11]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #12]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #13]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #14]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+
+[FAILURE #15]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+
+[FAILURE #16]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #17]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #18]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #19]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #20]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #21]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 4: (no prime process)
+
+[FAILURE #22]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #23]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #24]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #25]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #26]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #27]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #28]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #29]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #30]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #31]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #32]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #33]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #34]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #35]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #36]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #37]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #38]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #39]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #40]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #41]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+
+[FAILURE #42]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #43]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #44]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #45]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #46]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #47]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #48]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #49]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #50]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+
+[FAILURE #51]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #52]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #53]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #54]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #55]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #56]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #57]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 7: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #58]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #59]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #60]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #61]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+
+[FAILURE #62]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #63]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #64]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #65]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #66]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+
+[FAILURE #67]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #68]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #69]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #70]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #71]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #72]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #73]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #74]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #75]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #76]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #77]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #78]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #79]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #80]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #81]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #82]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #83]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #84]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #85]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #86]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+
+[FAILURE #87]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #88]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 8: (no prime process)
+
+[FAILURE #89]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #90]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #91]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #92]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #93]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #94]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 9: (no prime process)
+
+[FAILURE #95]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #96]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #97]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #98]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #99]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #100]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #101]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #102]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #103]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #104]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #105]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #106]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #107]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #108]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #109]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #110]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #111]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #112]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #113]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #114]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #115]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #116]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 4: (no prime process)
+
+[FAILURE #117]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #118]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #119]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #120]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 4: (no prime process)
+
+[FAILURE #121]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #122]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #123]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #124]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+
+[FAILURE #125]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #126]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #127]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 7: (no prime process)
+
+[FAILURE #128]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #129]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #130]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
+[FAILURE #131]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #132]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 2: (no prime process)
+
+[FAILURE #133]
+Test config: MAX PO=100, replicas=8, encryption=0, distribution=3, clients per driver=100
+Aster 1: (no prime process)
+Aster 2: (no prime process)
+Aster 4: (no prime process)
+Aster 5: (no prime process)
+Aster 6: (no prime process)
+Aster 7: (no prime process)
+Aster 8: (no prime process)
+Aster 9: (no prime process)
+
