@@ -95,7 +95,7 @@ def start_replicas(sessions: dict[int, subprocess.Popen]):
     # Check to see if all machines have successfully connected. If so return, otherwise print and 
     # raise a runtime error.
     # RECALL machines_in_use = [aster_id:int, started:Bool]
-    results:dict = threads.wait_for_threads(active_threads, timeout=3)
+    results:dict = threads.wait_for_threads(active_threads, timeout=30)
 
     err_msg=''
     for machine_id, response in sorted(results.items()):
